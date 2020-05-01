@@ -1,0 +1,825 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jasmooing.github.io" resolutions="1x" timestamp="1588296415676">
+  <folder name="css">
+    <file name="site_global.css" crc="436442295"/>
+    <file name="master_landing.css" crc="474352662" ref="index"/>
+    <file name="nomq_preview_master_landing.css" crc="438750804" ref="index"/>
+    <file name="master_project.css" crc="4213284481" ref="branding:to-sit:td-paya:about-me:website:ux:sha:clicktime:apotex:forze:rarefraction:klein-bottle:film:ivory-eggshell:td-casper:goose-v2:emergy"/>
+    <file name="nomq_preview_master_project.css" crc="3975383071" ref="branding:to-sit:td-paya:about-me:website:ux:sha:clicktime:apotex:forze:rarefraction:klein-bottle:film:ivory-eggshell:td-casper:goose-v2:emergy"/>
+    <file name="branding.css" crc="51447112" ref="branding"/>
+    <file name="nomq_branding.css" crc="3881072171" ref="branding"/>
+    <file name="to-sit.css" crc="4163274572" ref="to-sit"/>
+    <file name="nomq_to-sit.css" crc="4193387447" ref="to-sit"/>
+    <file name="td-paya.css" crc="259896740" ref="td-paya"/>
+    <file name="nomq_td-paya.css" crc="247353" ref="td-paya"/>
+    <file name="about-me.css" crc="4160698617" ref="about-me"/>
+    <file name="nomq_about-me.css" crc="3913114867" ref="about-me"/>
+    <file name="website.css" crc="4032996925" ref="website"/>
+    <file name="nomq_website.css" crc="3866522465" ref="website"/>
+    <file name="ux.css" crc="4113614471" ref="ux"/>
+    <file name="nomq_ux.css" crc="315048386" ref="ux"/>
+    <file name="index.css" crc="298361196" ref="index"/>
+    <file name="nomq_index.css" crc="3961125471" ref="index"/>
+    <file name="sha.css" crc="4269444102" ref="sha"/>
+    <file name="nomq_sha.css" crc="511217928" ref="sha"/>
+    <file name="clicktime.css" crc="315656151" ref="clicktime"/>
+    <file name="nomq_clicktime.css" crc="3788816423" ref="clicktime"/>
+    <file name="apotex.css" crc="157099972" ref="apotex"/>
+    <file name="nomq_apotex.css" crc="530389639" ref="apotex"/>
+    <file name="forze.css" crc="4048324464" ref="forze"/>
+    <file name="nomq_forze.css" crc="3796346800" ref="forze"/>
+    <file name="rarefraction.css" crc="495352448" ref="rarefraction"/>
+    <file name="nomq_rarefraction.css" crc="363949557" ref="rarefraction"/>
+    <file name="klein-bottle.css" crc="3913343887" ref="klein-bottle"/>
+    <file name="nomq_klein-bottle.css" crc="3780289886" ref="klein-bottle"/>
+    <file name="film.css" crc="410687623" ref="film"/>
+    <file name="nomq_film.css" crc="314413979" ref="film"/>
+    <file name="ivory-eggshell.css" crc="3976904326" ref="ivory-eggshell"/>
+    <file name="nomq_ivory-eggshell.css" crc="276586802" ref="ivory-eggshell"/>
+    <file name="td-casper.css" crc="4211015968" ref="td-casper"/>
+    <file name="nomq_td-casper.css" crc="9275628" ref="td-casper"/>
+    <file name="goose-v2.css" crc="350849617" ref="goose-v2"/>
+    <file name="nomq_goose-v2.css" crc="3890266053" ref="goose-v2"/>
+    <file name="emergy.css" crc="35957605" ref="emergy"/>
+    <file name="nomq_emergy.css" crc="4170443844" ref="emergy"/>
+  </folder>
+  <folder name="assets">
+    <file name="white.jpg" crc="4135929180" seo="true" mt="1585951396000"/>
+    <file name="dressr.mp4" crc="4084236453" seo="true" mt="1586296060000"/>
+    <file name="jz-resume.pdf" crc="225024248" seo="true" mt="1586977356000"/>
+    <file name="bby.jpg" crc="351757746" seo="true" mt="1586633343000"/>
+    <file name="casper_idea.mp4" crc="4055981223" seo="true" mt="1586716122000"/>
+    <file name="jz-resume-w.pdf" crc="4195121141" seo="true" mt="1587394777000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>emergy:phone>goose-v2:phone>rarefraction:phone>about-me:phone>ux:phone>clicktime:phone>website:phone>td-paya:phone>td-casper:phone>branding:phone>forze:phone>apotex:phone>sha:phone>film:about-me:emergy:goose-v2:klein-bottle:rarefraction:ux:branding:to-sit:ivory-eggshell:film:forze:apotex:sha:index:clicktime:website:td-paya:td-casper"/>
+    <file name="museutils.js" crc="3939489907" ref="phone>index:phone>emergy:phone>goose-v2:phone>rarefraction:phone>about-me:phone>ux:phone>clicktime:phone>website:phone>td-paya:phone>td-casper:phone>branding:phone>forze:phone>apotex:phone>sha:phone>film:about-me:emergy:goose-v2:klein-bottle:rarefraction:ux:branding:to-sit:ivory-eggshell:film:forze:apotex:sha:index:clicktime:website:td-paya:td-casper"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>emergy:phone>goose-v2:phone>rarefraction:phone>about-me:phone>ux:phone>clicktime:phone>website:phone>td-paya:phone>td-casper:phone>branding:phone>forze:phone>apotex:phone>sha:phone>film:about-me:emergy:goose-v2:klein-bottle:rarefraction:ux:branding:to-sit:ivory-eggshell:film:forze:apotex:sha:index:clicktime:website:td-paya:td-casper"/>
+    <file name="museconfig.js" crc="3936894949" ref="phone>index:phone>emergy:phone>goose-v2:phone>rarefraction:phone>about-me:phone>ux:phone>clicktime:phone>website:phone>td-paya:phone>td-casper:phone>branding:phone>forze:phone>apotex:phone>sha:phone>film:about-me:emergy:goose-v2:klein-bottle:rarefraction:ux:branding:to-sit:ivory-eggshell:film:forze:apotex:sha:index:clicktime:website:td-paya:td-casper"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="phone>index:phone>about-me:phone>ux:phone>branding:about-me:ux:branding:index"/>
+    <file name="jquery.watch.js" crc="522499760" ref="phone>index:phone>emergy:phone>goose-v2:phone>rarefraction:phone>about-me:phone>ux:phone>clicktime:phone>website:phone>td-paya:phone>td-casper:phone>branding:phone>forze:phone>apotex:phone>sha:phone>film:about-me:emergy:goose-v2:klein-bottle:rarefraction:ux:branding:to-sit:ivory-eggshell:film:forze:apotex:sha:index:clicktime:website:td-paya:td-casper"/>
+    <file name="require.js" crc="4177726516" ref="phone>index:phone>emergy:phone>goose-v2:phone>rarefraction:phone>about-me:phone>ux:phone>clicktime:phone>website:phone>td-paya:phone>td-casper:phone>branding:phone>forze:phone>apotex:phone>sha:phone>film:about-me:emergy:goose-v2:klein-bottle:rarefraction:ux:branding:to-sit:ivory-eggshell:film:forze:apotex:sha:index:clicktime:website:td-paya:td-casper"/>
+    <file name="webpro.js" crc="3856315280" ref="phone>emergy:phone>goose-v2:phone>rarefraction:phone>ux:phone>clicktime:phone>website:phone>td-paya:phone>td-casper:phone>branding:phone>forze:phone>apotex:phone>sha:phone>film:about-me:emergy:goose-v2:klein-bottle:rarefraction:ux:branding:to-sit:ivory-eggshell:film:forze:apotex:sha:index:clicktime:website:td-paya:td-casper"/>
+    <file name="musewpdisclosure.js" crc="4294234138" ref="phone>emergy:phone>goose-v2:phone>rarefraction:phone>ux:phone>clicktime:phone>website:phone>td-paya:phone>td-casper:phone>branding:phone>forze:phone>apotex:phone>sha:phone>film:about-me:emergy:goose-v2:klein-bottle:rarefraction:ux:branding:to-sit:ivory-eggshell:film:forze:apotex:sha:index:clicktime:website:td-paya:td-casper"/>
+    <file name="jquery.museresponsive.js" crc="95814420" ref="about-me:emergy:goose-v2:klein-bottle:rarefraction:ux:branding:to-sit:ivory-eggshell:film:forze:apotex:sha:index:clicktime:website:td-paya:td-casper"/>
+    <file name="jquery.scrolleffects.js" crc="312044820" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="20180417_165650.png" crc="4037033622" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="montreal poster-u19956-fr.jpg" crc="456088700" ref="phone>index"/>
+    <file name="wire-u19950-fr.png" crc="475942631" ref="phone>index"/>
+    <file name="3-u19946-fr.jpg" crc="4275144381" ref="phone>index"/>
+    <file name="ext view1-u19958-fr.jpg" crc="21059626" ref="phone>index"/>
+    <file name="thumbnail-u20843-fr.jpg" crc="340913766" ref="phone>index"/>
+    <file name="scroll-down.svg" crc="4068832168" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="scroll down_poster_.png" crc="536187077" ref="phone>index"/>
+    <file name="hamburger.svg" crc="4117881691" ref="phone>emergy:about-me:index"/>
+    <file name="hamburger_poster_u9978.png" crc="55165210" ref="phone>emergy:about-me:index"/>
+    <file name="x.svg" crc="4078923266" ref="phone>emergy:about-me:index"/>
+    <file name="x_poster_u9992.png" crc="62166420" ref="phone>emergy:about-me:index"/>
+    <file name="model-crop-u17899.png" crc="152544922" seo="true" ref="phone>emergy">
+      <caption webpage="emergy" alt=""/>
+    </file>
+    <file name="site analysis exisiting-crop-u17901.png" crc="183122863" seo="true" ref="phone>emergy">
+      <caption webpage="emergy" alt=""/>
+    </file>
+    <file name="site analysis-crop-u17903.png" crc="75135234" seo="true" ref="phone>emergy">
+      <caption webpage="emergy" alt=""/>
+    </file>
+    <file name="site axo-crop-u17905.png" crc="288107778" seo="true" ref="phone>emergy">
+      <caption webpage="emergy" alt=""/>
+    </file>
+    <file name="wireframe perspective330x149.png" crc="338966331" seo="true" ref="phone>emergy">
+      <caption webpage="emergy" alt=""/>
+    </file>
+    <file name="node diagram-crop-u17908.png" crc="4165764265" seo="true" ref="phone>emergy">
+      <caption webpage="emergy" alt=""/>
+    </file>
+    <file name="moment sections-crop-u17921.png" crc="160744778" seo="true" ref="phone>emergy">
+      <caption webpage="emergy" alt=""/>
+    </file>
+    <file name="sheep line drawing.jpg" crc="215271730" seo="true" ref="phone>emergy:emergy">
+      <caption webpage="emergy" alt=""/>
+      <caption webpage="emergy" alt=""/>
+      <caption webpage="emergy" alt=""/>
+    </file>
+    <file name="whole 1 200-1343x229.jpg" crc="332838673" seo="true" ref="phone>emergy">
+      <caption webpage="emergy" alt=""/>
+    </file>
+    <file name="life 1 50-crop-u17914.png" crc="456580485" seo="true" ref="phone>emergy">
+      <caption webpage="emergy" alt=""/>
+    </file>
+    <file name="plant 1 50-crop-u17916.png" crc="4280605695" seo="true" ref="phone>emergy">
+      <caption webpage="emergy" alt=""/>
+    </file>
+    <file name="montreal poster330x205.jpg" crc="519221391" seo="true" ref="phone>goose-v2">
+      <caption webpage="goose-v2" alt=""/>
+    </file>
+    <file name="specs341x175.jpg" crc="353725072" seo="true" ref="phone>goose-v2">
+      <caption webpage="goose-v2" alt=""/>
+    </file>
+    <file name="total330x836.png" crc="282821420" seo="true" ref="phone>goose-v2">
+      <caption webpage="goose-v2" alt=""/>
+    </file>
+    <file name="site plan-01196x330.jpg" crc="367781759" seo="true" ref="phone>rarefraction">
+      <caption webpage="rarefraction" alt=""/>
+    </file>
+    <file name="axo moments330x195.jpg" crc="446423460" seo="true" ref="phone>rarefraction">
+      <caption webpage="rarefraction" alt=""/>
+    </file>
+    <file name="1-250 exploded axo-crop-u18274.jpg" crc="4239242656" seo="true" ref="phone>rarefraction">
+      <caption webpage="rarefraction" alt=""/>
+    </file>
+    <file name="1 100 sectiom330x206.jpg" crc="3967993241" seo="true" ref="phone>rarefraction">
+      <caption webpage="rarefraction" alt=""/>
+    </file>
+    <file name="white 1 500 long section.jpg" crc="365966070" seo="true" ref="phone>rarefraction:rarefraction">
+      <caption webpage="rarefraction" alt=""/>
+      <caption webpage="rarefraction" alt=""/>
+      <caption webpage="rarefraction" alt=""/>
+    </file>
+    <file name="ext view1330x394.jpg" crc="3813172331" seo="true" ref="phone>rarefraction">
+      <caption webpage="rarefraction" alt=""/>
+    </file>
+    <file name="section perspective mosaic-01330x154.jpg" crc="4160289870" seo="true" ref="phone>rarefraction">
+      <caption webpage="rarefraction" alt=""/>
+    </file>
+    <file name="model-crop-u18263.jpg" crc="532792505" seo="true" ref="phone>rarefraction">
+      <caption webpage="rarefraction" alt=""/>
+    </file>
+    <file name="teaam341x455.jpg" crc="202792006" seo="true" ref="phone>rarefraction">
+      <caption webpage="rarefraction" alt=""/>
+    </file>
+    <file name="analog-u17595-fr.jpg" crc="22679027" ref="phone>about-me"/>
+    <file name="wire-u17635-fr.png" crc="4086534162" ref="phone>ux"/>
+    <file name="thumbnail.jpg" crc="3968421960" ref="phone>ux:ux">
+      <caption webpage="ux" alt=""/>
+      <caption webpage="ux" alt=""/>
+    </file>
+    <file name="thumbnail2.jpg" crc="373547710" ref="phone>ux:ux">
+      <caption webpage="ux" alt=""/>
+    </file>
+    <file name="thumbnail3.jpg" crc="3777866166" ref="phone>ux:ux">
+      <caption webpage="ux" alt=""/>
+      <caption webpage="ux" alt=""/>
+    </file>
+    <file name="app logo.jpg" crc="40619625" seo="true" ref="phone>clicktime:clicktime">
+      <caption webpage="clicktime" alt=""/>
+      <caption webpage="clicktime" alt=""/>
+      <caption webpage="clicktime" alt=""/>
+    </file>
+    <file name="current202x337.png" crc="4054996795" seo="true" ref="phone>clicktime">
+      <caption webpage="clicktime" alt=""/>
+    </file>
+    <file name="current3202x336.png" crc="4147618450" seo="true" ref="phone>clicktime">
+      <caption webpage="clicktime" alt=""/>
+    </file>
+    <file name="current2202x337.png" crc="4121537851" seo="true" ref="phone>clicktime">
+      <caption webpage="clicktime" alt=""/>
+    </file>
+    <file name="new2-crop-u19339.png" crc="409827799" seo="true" ref="phone>clicktime">
+      <caption webpage="clicktime" alt=""/>
+    </file>
+    <file name="new-crop-u19337.png" crc="257478609" seo="true" ref="phone>clicktime">
+      <caption webpage="clicktime" alt=""/>
+    </file>
+    <file name="other-crop-u19011.png" crc="442955692" seo="true" ref="phone>website">
+      <caption webpage="website" alt=""/>
+    </file>
+    <file name="mine-crop-u19013.png" crc="441464427" seo="true" ref="phone>website">
+      <caption webpage="website" alt=""/>
+    </file>
+    <file name="wire390x309.png" crc="4034998257" seo="true" ref="phone>website">
+      <caption webpage="website" alt=""/>
+    </file>
+    <file name="paya330x505.jpg" crc="18584981" seo="true" ref="phone>td-paya">
+      <caption webpage="td-paya" alt=""/>
+    </file>
+    <file name="discover 150-crop-u19167.png" crc="4161104742" seo="true" ref="phone>td-casper">
+      <caption webpage="td-casper" alt=""/>
+    </file>
+    <file name="youtube.png" crc="367521199" seo="true" ref="phone>td-casper:td-casper">
+      <caption webpage="td-casper" alt=""/>
+      <caption webpage="td-casper" alt=""/>
+      <caption webpage="td-casper" alt=""/>
+    </file>
+    <file name="opt3 back.jpg" crc="124711701" ref="phone>branding:branding">
+      <caption webpage="branding" alt=""/>
+      <caption webpage="branding" alt=""/>
+    </file>
+    <file name="apotex.png" crc="4240557290" ref="phone>branding:branding:index">
+      <caption webpage="branding" alt=""/>
+      <caption webpage="branding" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sha logo.jpg" crc="3799764274" ref="phone>branding:branding">
+      <caption webpage="branding" alt=""/>
+      <caption webpage="branding" alt=""/>
+      <caption webpage="branding" alt=""/>
+    </file>
+    <file name="infographic_hydrogen.gif" crc="324253275" seo="true" ref="phone>forze:forze">
+      <caption webpage="forze" alt=""/>
+      <caption webpage="forze" alt=""/>
+      <caption webpage="forze" alt=""/>
+    </file>
+    <file name="forze_chassis_diffuse1001132x132.jpg" crc="4161159145" seo="true" ref="phone>forze">
+      <caption webpage="forze" alt=""/>
+    </file>
+    <file name="forze_chassis_diffuse1002132x132.jpg" crc="4152058208" seo="true" ref="phone>forze">
+      <caption webpage="forze" alt=""/>
+    </file>
+    <file name="forze_chassis_diffuse1008132x132.jpg" crc="4244896362" seo="true" ref="phone>forze">
+      <caption webpage="forze" alt=""/>
+    </file>
+    <file name="forze_chassis_diffuse1009132x132.jpg" crc="3863991253" seo="true" ref="phone>forze">
+      <caption webpage="forze" alt=""/>
+    </file>
+    <file name="forze.jpg" crc="4152073065" seo="true" ref="phone>forze:forze">
+      <caption webpage="forze" alt=""/>
+      <caption webpage="forze" alt=""/>
+      <caption webpage="forze" alt=""/>
+    </file>
+    <file name="info sign forze viii330x234.png" crc="3973978678" seo="true" ref="phone>forze">
+      <caption webpage="forze" alt=""/>
+    </file>
+    <file name="opt1331x217.jpg" crc="4131704006" seo="true" ref="phone>forze">
+      <caption webpage="forze" alt=""/>
+    </file>
+    <file name="opt3331x217.jpg" crc="421317756" seo="true" ref="phone>forze">
+      <caption webpage="forze" alt=""/>
+    </file>
+    <file name="opt2329x216.jpg" crc="4242680083" seo="true" ref="phone>forze">
+      <caption webpage="forze" alt=""/>
+    </file>
+    <file name="a329x238.jpg" crc="4083574243" seo="true" ref="phone>forze">
+      <caption webpage="forze" alt=""/>
+    </file>
+    <file name="apotex logo-crop-u18979.jpg" crc="155859863" seo="true" ref="phone>apotex">
+      <caption webpage="apotex" alt=""/>
+    </file>
+    <file name="u22782-4.png" crc="332962579" ref="phone>apotex"/>
+    <file name="u22783-13.png" crc="4142198520" ref="phone>apotex"/>
+    <file name="total-crop-u18749.png" crc="393884622" seo="true" ref="phone>sha">
+      <caption webpage="sha" alt=""/>
+    </file>
+    <file name="film-crop-u17748.png" crc="4232869862" seo="true" ref="phone>film">
+      <caption webpage="film" alt=""/>
+    </file>
+    <file name="film-crop-u17829.png" crc="3889204301" seo="true" ref="phone>film">
+      <caption webpage="film" alt=""/>
+    </file>
+    <file name="film2-crop-u17750.png" crc="4051495995" seo="true" ref="phone>film">
+      <caption webpage="film" alt=""/>
+    </file>
+    <file name="film2-crop-u17852.png" crc="3914926987" seo="true" ref="phone>film">
+      <caption webpage="film" alt=""/>
+    </file>
+    <file name="film5-crop-u17752.png" crc="4262379622" seo="true" ref="phone>film">
+      <caption webpage="film" alt=""/>
+    </file>
+    <file name="film5-crop-u17885.png" crc="361945333" seo="true" ref="phone>film">
+      <caption webpage="film" alt=""/>
+    </file>
+    <file name="film4-crop-u17754.png" crc="426645496" seo="true" ref="phone>film">
+      <caption webpage="film" alt=""/>
+    </file>
+    <file name="film4-crop-u17875.png" crc="473817514" seo="true" ref="phone>film">
+      <caption webpage="film" alt=""/>
+    </file>
+    <file name="film3-crop-u17756.png" crc="4067209727" seo="true" ref="phone>film">
+      <caption webpage="film" alt=""/>
+    </file>
+    <file name="film3-crop-u17865.png" crc="4289915233" seo="true" ref="phone>film">
+      <caption webpage="film" alt=""/>
+    </file>
+    <file name="analog-u12225-fr.jpg" crc="3870324043" ref="about-me"/>
+    <file name="analog.jpg" crc="3835839444" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="model.png" crc="4260581776" seo="true" ref="emergy">
+      <caption webpage="emergy" alt=""/>
+    </file>
+    <file name="site analysis exisiting-crop-u2518.png" crc="56089144" seo="true" ref="emergy">
+      <caption webpage="emergy" alt=""/>
+    </file>
+    <file name="site analysis-crop-u2574.png" crc="4216034998" seo="true" ref="emergy">
+      <caption webpage="emergy" alt=""/>
+    </file>
+    <file name="site axo-crop-u2560.png" crc="160022944" seo="true" ref="emergy">
+      <caption webpage="emergy" alt=""/>
+    </file>
+    <file name="wireframe perspective.png" crc="4060292507" seo="true" ref="emergy">
+      <caption webpage="emergy" alt=""/>
+    </file>
+    <file name="node diagram-crop-u2629.png" crc="3885100542" seo="true" ref="emergy">
+      <caption webpage="emergy" alt=""/>
+    </file>
+    <file name="moment sections-crop-u2643.png" crc="473690472" seo="true" ref="emergy">
+      <caption webpage="emergy" alt=""/>
+    </file>
+    <file name="whole 1 200-1.jpg" crc="528012343" seo="true" ref="emergy">
+      <caption webpage="emergy" alt=""/>
+    </file>
+    <file name="life 1 50-crop-u2680.png" crc="3952264378" seo="true" ref="emergy">
+      <caption webpage="emergy" alt=""/>
+    </file>
+    <file name="plant 1 50-crop-u2694.png" crc="4048758517" seo="true" ref="emergy">
+      <caption webpage="emergy" alt=""/>
+    </file>
+    <file name="model-crop-u2291.png" crc="383424167" seo="true" ref="emergy">
+      <caption webpage="emergy" alt=""/>
+    </file>
+    <file name="site analysis exisiting-crop-u25182.png" crc="58353008" seo="true" ref="emergy">
+      <caption webpage="emergy" alt=""/>
+    </file>
+    <file name="site analysis-crop-u25742.png" crc="4231896460" seo="true" ref="emergy">
+      <caption webpage="emergy" alt=""/>
+    </file>
+    <file name="site axo-crop-u25602.png" crc="3760836430" seo="true" ref="emergy">
+      <caption webpage="emergy" alt=""/>
+    </file>
+    <file name="wireframe perspective480x216.png" crc="197746360" seo="true" ref="emergy">
+      <caption webpage="emergy" alt=""/>
+    </file>
+    <file name="node diagram-crop-u26292.png" crc="4271805995" seo="true" ref="emergy">
+      <caption webpage="emergy" alt=""/>
+    </file>
+    <file name="moment sections-crop-u26432.png" crc="4080877313" seo="true" ref="emergy">
+      <caption webpage="emergy" alt=""/>
+    </file>
+    <file name="whole 1 200-1499x333.jpg" crc="4217372661" seo="true" ref="emergy">
+      <caption webpage="emergy" alt=""/>
+    </file>
+    <file name="life 1 50-crop-u26802.png" crc="372542201" seo="true" ref="emergy">
+      <caption webpage="emergy" alt=""/>
+    </file>
+    <file name="plant 1 50-crop-u26942.png" crc="11335603" seo="true" ref="emergy">
+      <caption webpage="emergy" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="emergy:goose-v2:klein-bottle:rarefraction:ux:branding:to-sit:ivory-eggshell:film:forze:apotex:sha:index:clicktime:website:td-paya:td-casper"/>
+    <file name="montreal poster.jpg" crc="274880099" seo="true" ref="goose-v2">
+      <caption webpage="goose-v2" alt=""/>
+    </file>
+    <file name="specs.jpg" crc="244065615" seo="true" ref="goose-v2">
+      <caption webpage="goose-v2" alt=""/>
+    </file>
+    <file name="total.png" crc="109031812" seo="true" ref="goose-v2">
+      <caption webpage="goose-v2" alt=""/>
+    </file>
+    <file name="montreal poster480x297.jpg" crc="3877363479" seo="true" ref="goose-v2">
+      <caption webpage="goose-v2" alt=""/>
+    </file>
+    <file name="specs497x254.jpg" crc="4162153030" seo="true" ref="goose-v2">
+      <caption webpage="goose-v2" alt=""/>
+    </file>
+    <file name="total480x1216.png" crc="3771051420" seo="true" ref="goose-v2">
+      <caption webpage="goose-v2" alt=""/>
+    </file>
+    <file name="img_0706.jpg" crc="3816064695" seo="true" ref="klein-bottle">
+      <caption webpage="klein-bottle" alt=""/>
+    </file>
+    <file name="assembly-crop-u3304.png" crc="205918264" seo="true" ref="klein-bottle">
+      <caption webpage="klein-bottle" alt=""/>
+    </file>
+    <file name="together 2-crop-u4445.png" crc="111572282" seo="true" ref="klein-bottle">
+      <caption webpage="klein-bottle" alt=""/>
+    </file>
+    <file name="section-crop-u3290.png" crc="187130215" seo="true" ref="klein-bottle">
+      <caption webpage="klein-bottle" alt=""/>
+    </file>
+    <file name="img_0674.jpg" crc="447970968" seo="true" ref="klein-bottle">
+      <caption webpage="klein-bottle" alt=""/>
+    </file>
+    <file name="img_0706480x320.jpg" crc="246618355" seo="true" ref="klein-bottle">
+      <caption webpage="klein-bottle" alt=""/>
+    </file>
+    <file name="assembly-crop-u33042.png" crc="4243136967" seo="true" ref="klein-bottle">
+      <caption webpage="klein-bottle" alt=""/>
+    </file>
+    <file name="together 2-crop-u44452.png" crc="3920955224" seo="true" ref="klein-bottle">
+      <caption webpage="klein-bottle" alt=""/>
+    </file>
+    <file name="section-crop-u32902.png" crc="227338123" seo="true" ref="klein-bottle">
+      <caption webpage="klein-bottle" alt=""/>
+    </file>
+    <file name="img_0674480x320.jpg" crc="117163213" seo="true" ref="klein-bottle">
+      <caption webpage="klein-bottle" alt=""/>
+    </file>
+    <file name="site plan-01.jpg" crc="3986108860" seo="true" ref="rarefraction">
+      <caption webpage="rarefraction" alt=""/>
+    </file>
+    <file name="axo moments.jpg" crc="337864743" seo="true" ref="rarefraction">
+      <caption webpage="rarefraction" alt=""/>
+    </file>
+    <file name="1-250 exploded axo-crop-u3989.jpg" crc="20604065" seo="true" ref="rarefraction">
+      <caption webpage="rarefraction" alt=""/>
+    </file>
+    <file name="1 100 sectiom.jpg" crc="303714197" seo="true" ref="rarefraction">
+      <caption webpage="rarefraction" alt=""/>
+    </file>
+    <file name="model-crop-u4273.jpg" crc="3987964480" seo="true" ref="rarefraction">
+      <caption webpage="rarefraction" alt=""/>
+    </file>
+    <file name="white 1 500 short section.jpg" crc="413467449" seo="true" ref="rarefraction">
+      <caption webpage="rarefraction" alt=""/>
+      <caption webpage="rarefraction" alt=""/>
+    </file>
+    <file name="ext view1.jpg" crc="14611029" seo="true" ref="rarefraction">
+      <caption webpage="rarefraction" alt=""/>
+      <caption webpage="rarefraction" alt=""/>
+    </file>
+    <file name="section perspective mosaic-01.jpg" crc="4020005684" seo="true" ref="rarefraction">
+      <caption webpage="rarefraction" alt=""/>
+    </file>
+    <file name="teaam.jpg" crc="73048616" seo="true" ref="rarefraction">
+      <caption webpage="rarefraction" alt=""/>
+      <caption webpage="rarefraction" alt=""/>
+    </file>
+    <file name="site plan-01285x480.jpg" crc="4112037828" seo="true" ref="rarefraction">
+      <caption webpage="rarefraction" alt=""/>
+    </file>
+    <file name="axo moments481x283.jpg" crc="415938287" seo="true" ref="rarefraction">
+      <caption webpage="rarefraction" alt=""/>
+    </file>
+    <file name="1-250 exploded axo-crop-u39892.jpg" crc="353837782" seo="true" ref="rarefraction">
+      <caption webpage="rarefraction" alt=""/>
+    </file>
+    <file name="1 100 sectiom481x300.jpg" crc="347519408" seo="true" ref="rarefraction">
+      <caption webpage="rarefraction" alt=""/>
+    </file>
+    <file name="section perspective mosaic-01481x223.jpg" crc="67306" seo="true" ref="rarefraction">
+      <caption webpage="rarefraction" alt=""/>
+    </file>
+    <file name="model-crop-u42732.jpg" crc="4288981751" seo="true" ref="rarefraction">
+      <caption webpage="rarefraction" alt=""/>
+    </file>
+    <file name="wire-u7668-fr.png" crc="326360853" ref="ux"/>
+    <file name="wire-u7668-fr2.png" crc="85212071" ref="ux"/>
+    <file name="thumbnail-u7667-fr.jpg" crc="3798667615" ref="ux"/>
+    <file name="thumbnail-u7713-fr.jpg" crc="4154258752" ref="ux"/>
+    <file name="opt3 back-u6423-fr.jpg" crc="236116096" ref="branding"/>
+    <file name="apotex-u6603-fr.png" crc="4170696847" ref="branding"/>
+    <file name="front view2-crop-u5081.png" crc="89174732" seo="true" ref="to-sit">
+      <caption webpage="to-sit" alt=""/>
+    </file>
+    <file name="precedent.jpg" crc="4145378165" seo="true" ref="to-sit">
+      <caption webpage="to-sit" alt=""/>
+    </file>
+    <file name="test form.jpg" crc="135472159" seo="true" ref="to-sit">
+      <caption webpage="to-sit" alt=""/>
+    </file>
+    <file name="form study-crop-u5141.jpg" crc="442554109" seo="true" ref="to-sit">
+      <caption webpage="to-sit" alt=""/>
+    </file>
+    <file name="cnc template.jpg" crc="3787406027" seo="true" ref="to-sit">
+      <caption webpage="to-sit" alt=""/>
+      <caption webpage="to-sit" alt=""/>
+    </file>
+    <file name="dimensions.png" crc="4041629268" seo="true" ref="to-sit">
+      <caption webpage="to-sit" alt=""/>
+    </file>
+    <file name="assembly.png" crc="34884078" seo="true" ref="to-sit">
+      <caption webpage="to-sit" alt=""/>
+      <caption webpage="to-sit" alt=""/>
+    </file>
+    <file name="final.png" crc="3810005420" seo="true" ref="to-sit">
+      <caption webpage="to-sit" alt=""/>
+      <caption webpage="to-sit" alt=""/>
+    </file>
+    <file name="20181004_155903.jpg" crc="354780510" seo="true" ref="to-sit">
+      <caption webpage="to-sit" alt=""/>
+    </file>
+    <file name="20181004_162901.jpg" crc="4139196829" seo="true" ref="to-sit">
+      <caption webpage="to-sit" alt=""/>
+    </file>
+    <file name="side view2-crop-u5362.png" crc="4266516359" seo="true" ref="to-sit">
+      <caption webpage="to-sit" alt=""/>
+    </file>
+    <file name="front view2-crop-u50812.png" crc="4228875008" seo="true" ref="to-sit">
+      <caption webpage="to-sit" alt=""/>
+    </file>
+    <file name="form study-crop-u51412.jpg" crc="228434940" seo="true" ref="to-sit">
+      <caption webpage="to-sit" alt=""/>
+    </file>
+    <file name="precedent363x207.jpg" crc="3962376753" seo="true" ref="to-sit">
+      <caption webpage="to-sit" alt=""/>
+    </file>
+    <file name="test form364x200.jpg" crc="4214040524" seo="true" ref="to-sit">
+      <caption webpage="to-sit" alt=""/>
+    </file>
+    <file name="dimensions482x223.png" crc="101642100" seo="true" ref="to-sit">
+      <caption webpage="to-sit" alt=""/>
+    </file>
+    <file name="20181004_155903480x610.jpg" crc="3978828860" seo="true" ref="to-sit">
+      <caption webpage="to-sit" alt=""/>
+    </file>
+    <file name="20181004_162901480x270.jpg" crc="4293018907" seo="true" ref="to-sit">
+      <caption webpage="to-sit" alt=""/>
+    </file>
+    <file name="side view2-crop-u53622.png" crc="77733519" seo="true" ref="to-sit">
+      <caption webpage="to-sit" alt=""/>
+    </file>
+    <file name="dsc_1177.jpg" crc="3914402947" seo="true" ref="ivory-eggshell">
+      <caption webpage="ivory-eggshell" alt=""/>
+    </file>
+    <file name="final-crop-u5597.png" crc="65863715" seo="true" ref="ivory-eggshell">
+      <caption webpage="ivory-eggshell" alt=""/>
+    </file>
+    <file name="0006.jpg" crc="289681150" seo="true" ref="ivory-eggshell">
+      <caption webpage="ivory-eggshell" alt=""/>
+    </file>
+    <file name="tix.jpg" crc="386270402" seo="true" ref="ivory-eggshell">
+      <caption webpage="ivory-eggshell" alt=""/>
+      <caption webpage="ivory-eggshell" alt=""/>
+    </file>
+    <file name="posters.jpg" crc="67853980" seo="true" ref="ivory-eggshell">
+      <caption webpage="ivory-eggshell" alt=""/>
+    </file>
+    <file name="bts-crop-u5730.png" crc="3885275745" seo="true" ref="ivory-eggshell">
+      <caption webpage="ivory-eggshell" alt=""/>
+    </file>
+    <file name="all of us.jpg" crc="4159501651" seo="true" ref="ivory-eggshell">
+      <caption webpage="ivory-eggshell" alt=""/>
+    </file>
+    <file name="dsc_1177480x321.jpg" crc="4280263228" seo="true" ref="ivory-eggshell">
+      <caption webpage="ivory-eggshell" alt=""/>
+    </file>
+    <file name="final-crop-u55972.png" crc="401142167" seo="true" ref="ivory-eggshell">
+      <caption webpage="ivory-eggshell" alt=""/>
+    </file>
+    <file name="0006480x321.jpg" crc="182897546" seo="true" ref="ivory-eggshell">
+      <caption webpage="ivory-eggshell" alt=""/>
+    </file>
+    <file name="posters348x464.jpg" crc="3885289668" seo="true" ref="ivory-eggshell">
+      <caption webpage="ivory-eggshell" alt=""/>
+    </file>
+    <file name="bts-crop-u57302.png" crc="4158618431" seo="true" ref="ivory-eggshell">
+      <caption webpage="ivory-eggshell" alt=""/>
+    </file>
+    <file name="all of us481x200.jpg" crc="429068086" seo="true" ref="ivory-eggshell">
+      <caption webpage="ivory-eggshell" alt=""/>
+    </file>
+    <file name="film.png" crc="3784330337" seo="true" ref="film">
+      <caption webpage="film" alt=""/>
+    </file>
+    <file name="film2.png" crc="3961435977" seo="true" ref="film">
+      <caption webpage="film" alt=""/>
+    </file>
+    <file name="film3.png" crc="4123545121" seo="true" ref="film">
+      <caption webpage="film" alt=""/>
+    </file>
+    <file name="film4.png" crc="4251960144" seo="true" ref="film">
+      <caption webpage="film" alt=""/>
+    </file>
+    <file name="film5.png" crc="3916892685" seo="true" ref="film">
+      <caption webpage="film" alt=""/>
+    </file>
+    <file name="film516x314.png" crc="269714782" seo="true" ref="film">
+      <caption webpage="film" alt=""/>
+    </file>
+    <file name="film2516x314.png" crc="133161086" seo="true" ref="film">
+      <caption webpage="film" alt=""/>
+    </file>
+    <file name="film3516x314.png" crc="3798712401" seo="true" ref="film">
+      <caption webpage="film" alt=""/>
+    </file>
+    <file name="film4516x314.png" crc="3777648390" seo="true" ref="film">
+      <caption webpage="film" alt=""/>
+    </file>
+    <file name="film5516x314.png" crc="42500336" seo="true" ref="film">
+      <caption webpage="film" alt=""/>
+    </file>
+    <file name="forze_chassis_diffuse1001.jpg" crc="401041425" seo="true" ref="forze">
+      <caption webpage="forze" alt=""/>
+    </file>
+    <file name="forze_chassis_diffuse1002.jpg" crc="3924981606" seo="true" ref="forze">
+      <caption webpage="forze" alt=""/>
+    </file>
+    <file name="forze_chassis_diffuse1008.jpg" crc="160768698" seo="true" ref="forze">
+      <caption webpage="forze" alt=""/>
+    </file>
+    <file name="forze_chassis_diffuse1009.jpg" crc="66816033" seo="true" ref="forze">
+      <caption webpage="forze" alt=""/>
+    </file>
+    <file name="info sign forze viii.png" crc="4134984086" seo="true" ref="forze">
+      <caption webpage="forze" alt=""/>
+    </file>
+    <file name="opt1.jpg" crc="3891269731" seo="true" ref="forze">
+      <caption webpage="forze" alt=""/>
+    </file>
+    <file name="opt3.jpg" crc="4140228819" seo="true" ref="forze">
+      <caption webpage="forze" alt=""/>
+    </file>
+    <file name="opt2.jpg" crc="4287356794" seo="true" ref="forze">
+      <caption webpage="forze" alt=""/>
+    </file>
+    <file name="a.jpg" crc="493829821" seo="true" ref="forze">
+      <caption webpage="forze" alt=""/>
+    </file>
+    <file name="forze_chassis_diffuse1001190x190.jpg" crc="4075802060" seo="true" ref="forze">
+      <caption webpage="forze" alt=""/>
+    </file>
+    <file name="forze_chassis_diffuse1002190x190.jpg" crc="3828218494" seo="true" ref="forze">
+      <caption webpage="forze" alt=""/>
+    </file>
+    <file name="forze_chassis_diffuse1008190x190.jpg" crc="404720331" seo="true" ref="forze">
+      <caption webpage="forze" alt=""/>
+    </file>
+    <file name="forze_chassis_diffuse1009190x190.jpg" crc="388629279" seo="true" ref="forze">
+      <caption webpage="forze" alt=""/>
+    </file>
+    <file name="info sign forze viii487x344.png" crc="4103344011" seo="true" ref="forze">
+      <caption webpage="forze" alt=""/>
+    </file>
+    <file name="opt1481x316.jpg" crc="496205145" seo="true" ref="forze">
+      <caption webpage="forze" alt=""/>
+    </file>
+    <file name="opt3481x316.jpg" crc="4093705319" seo="true" ref="forze">
+      <caption webpage="forze" alt=""/>
+    </file>
+    <file name="opt2479x315.jpg" crc="236203668" seo="true" ref="forze">
+      <caption webpage="forze" alt=""/>
+    </file>
+    <file name="a478x346.jpg" crc="228454207" seo="true" ref="forze">
+      <caption webpage="forze" alt=""/>
+    </file>
+    <file name="apotex logo-crop-u7458.jpg" crc="3784948772" seo="true" ref="apotex">
+      <caption webpage="apotex" alt=""/>
+    </file>
+    <file name="u22693-4.png" crc="207943903" ref="apotex"/>
+    <file name="u22694-13.png" crc="3933836929" ref="apotex"/>
+    <file name="apotex logo-crop-u74582.jpg" crc="4290490831" seo="true" ref="apotex">
+      <caption webpage="apotex" alt=""/>
+    </file>
+    <file name="u22693-42.png" crc="207943903" ref="apotex"/>
+    <file name="u22694-132.png" crc="308530129" ref="apotex"/>
+    <file name="total-crop-u8191.png" crc="4229785049" seo="true" ref="sha">
+      <caption webpage="sha" alt=""/>
+    </file>
+    <file name="total-crop-u81912.png" crc="33396903" seo="true" ref="sha">
+      <caption webpage="sha" alt=""/>
+    </file>
+    <file name="3.jpg" crc="3846259809" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wire-u11841-fr.png" crc="81216205" ref="index"/>
+    <file name="posters-u11856-fr.jpg" crc="4104965374" ref="index"/>
+    <file name="ext day (1)-u11858-fr.jpg" crc="3886744381" ref="index"/>
+    <file name="thumbnail4.jpg" crc="3958488878" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="montreal poster-u11850-fr.jpg" crc="13508566" ref="index"/>
+    <file name="b823455710z1_20170721204930_000_grk1u10g11_super_portrait.jpg" crc="4100846467" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="section perspective mosaic-01-u11833-fr.jpg" crc="354612666" ref="index"/>
+    <file name="ext view1-u11860-fr.jpg" crc="3920330758" ref="index"/>
+    <file name="img_0706-u11837-fr.jpg" crc="398183853" ref="index"/>
+    <file name="thumbnail2-u11859-fr.png" crc="320597415" ref="index"/>
+    <file name="20181004_162901-u11829-fr.jpg" crc="3880489784" ref="index"/>
+    <file name="assembly-u11855-fr.png" crc="451490246" ref="index"/>
+    <file name="thumbnail-u11838-fr.jpg" crc="3957987082" ref="index"/>
+    <file name="dsc_1042.jpg" crc="109035961" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="camera1.jpg" crc="95237511" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="thumbnail5.jpg" crc="514597318" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="montreal poster-u11850-fr2.jpg" crc="535022805" ref="index"/>
+    <file name="thumbnail2.png" crc="522975694" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="apotex-u11866-fr.png" crc="4281251498" ref="index"/>
+    <file name="posters-u11856-fr2.jpg" crc="4178444517" ref="index"/>
+    <file name="wire-u11841-fr2.png" crc="303548939" ref="index"/>
+    <file name="ext day (1).jpg" crc="485575245" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ext view1-u11860-fr2.jpg" crc="4129154889" ref="index"/>
+    <file name="20181004_162901-u11829-fr2.jpg" crc="4193382971" ref="index"/>
+    <file name="assembly-u11855-fr2.png" crc="250931631" ref="index"/>
+    <file name="thumbnail-u11854-fr.jpg" crc="4157095297" ref="index"/>
+    <file name="current.png" crc="370821912" seo="true" ref="clicktime">
+      <caption webpage="clicktime" alt=""/>
+      <caption webpage="clicktime" alt=""/>
+    </file>
+    <file name="current2.png" crc="4060054649" seo="true" ref="clicktime">
+      <caption webpage="clicktime" alt=""/>
+      <caption webpage="clicktime" alt=""/>
+    </file>
+    <file name="current3.png" crc="511903414" seo="true" ref="clicktime">
+      <caption webpage="clicktime" alt=""/>
+      <caption webpage="clicktime" alt=""/>
+    </file>
+    <file name="new-crop-u13390.png" crc="3763983726" seo="true" ref="clicktime">
+      <caption webpage="clicktime" alt=""/>
+    </file>
+    <file name="new2-crop-u13418.png" crc="3824773032" seo="true" ref="clicktime">
+      <caption webpage="clicktime" alt=""/>
+    </file>
+    <file name="new.png" crc="307002033" seo="true" ref="clicktime">
+      <caption webpage="clicktime" alt=""/>
+    </file>
+    <file name="new2-crop-u134182.png" crc="490327271" seo="true" ref="clicktime">
+      <caption webpage="clicktime" alt=""/>
+    </file>
+    <file name="other-crop-u15362.png" crc="4083283274" seo="true" ref="website">
+      <caption webpage="website" alt=""/>
+    </file>
+    <file name="mine-crop-u15420.png" crc="3913100264" seo="true" ref="website">
+      <caption webpage="website" alt=""/>
+    </file>
+    <file name="wire.png" crc="3843253883" seo="true" ref="website">
+      <caption webpage="website" alt=""/>
+    </file>
+    <file name="other-crop-u153622.png" crc="115269779" seo="true" ref="website">
+      <caption webpage="website" alt=""/>
+    </file>
+    <file name="mine-crop-u154202.png" crc="3913100264" seo="true" ref="website">
+      <caption webpage="website" alt=""/>
+    </file>
+    <file name="wire567x449.png" crc="367563811" seo="true" ref="website">
+      <caption webpage="website" alt=""/>
+    </file>
+    <file name="paya.jpg" crc="509900068" seo="true" ref="td-paya">
+      <caption webpage="td-paya" alt=""/>
+    </file>
+    <file name="paya452x692.jpg" crc="3881123890" seo="true" ref="td-paya">
+      <caption webpage="td-paya" alt=""/>
+    </file>
+    <file name="discover 150.png" crc="372587221" seo="true" ref="td-casper">
+      <caption webpage="td-casper" alt=""/>
+    </file>
+    <file name="discover 150-crop-u14566.png" crc="4160338072" seo="true" ref="td-casper">
+      <caption webpage="td-casper" alt=""/>
+    </file>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_landing.css" crc="343853115" ref="phone>index:phone>about-me"/>
+      <file name="nomq_preview_master_landing.css" crc="3824530138" ref="phone>index:phone>about-me"/>
+      <file name="master_project.css" crc="3905216132" ref="phone>td-casper:phone>emergy:phone>td-paya:phone>film:phone>clicktime:phone>forze:phone>ux:phone>website:phone>rarefraction:phone>branding:phone>goose-v2:phone>sha:phone>apotex"/>
+      <file name="nomq_preview_master_project.css" crc="3824530138" ref="phone>td-casper:phone>emergy:phone>td-paya:phone>film:phone>clicktime:phone>forze:phone>ux:phone>website:phone>rarefraction:phone>branding:phone>goose-v2:phone>sha:phone>apotex"/>
+      <file name="td-casper.css" crc="3791614965" ref="phone>td-casper"/>
+      <file name="emergy.css" crc="4034142043" ref="phone>emergy"/>
+      <file name="td-paya.css" crc="3956682998" ref="phone>td-paya"/>
+      <file name="film.css" crc="301581428" ref="phone>film"/>
+      <file name="nomq_film.css" crc="3824530138" ref="phone>film"/>
+      <file name="index.css" crc="4252101169" ref="phone>index"/>
+      <file name="clicktime.css" crc="509603094" ref="phone>clicktime"/>
+      <file name="forze.css" crc="4189388554" ref="phone>forze"/>
+      <file name="ux.css" crc="138587587" ref="phone>ux"/>
+      <file name="website.css" crc="4012376221" ref="phone>website"/>
+      <file name="about-me.css" crc="4239803885" ref="phone>about-me"/>
+      <file name="nomq_about-me.css" crc="3824530138" ref="phone>about-me"/>
+      <file name="rarefraction.css" crc="536849739" ref="phone>rarefraction"/>
+      <file name="branding.css" crc="4178076763" ref="phone>branding"/>
+      <file name="goose-v2.css" crc="280296485" ref="phone>goose-v2"/>
+      <file name="sha.css" crc="253825802" ref="phone>sha"/>
+      <file name="apotex.css" crc="203870068" ref="phone>apotex"/>
+    </folder>
+    <file name="index.html" crc="3979361260" seo="true" mt="1586980734480" redirect="true"/>
+    <file name="emergy.html" crc="4034198751" seo="true" mt="1588175775643" redirect="true"/>
+    <file name="goose-v2.html" crc="3777403973" seo="true" mt="1588175731904" redirect="true"/>
+    <file name="rarefraction.html" crc="4169448037" seo="true" mt="1588181451267" redirect="true"/>
+    <file name="about-me.html" crc="132560152" seo="true" mt="1588272070430" redirect="true"/>
+    <file name="ux.html" crc="114019021" seo="true" mt="1586912723242" redirect="true"/>
+    <file name="clicktime.html" crc="188341437" seo="true" mt="1588272353240" redirect="true"/>
+    <file name="website.html" crc="388822465" seo="true" mt="1588188583422" redirect="true"/>
+    <file name="td-paya.html" crc="3881617512" seo="true" mt="1588188511081" redirect="true"/>
+    <file name="td-casper.html" crc="77857332" seo="true" mt="1588272459531" redirect="true"/>
+    <file name="branding.html" crc="4261631635" seo="true" mt="1586912723242" redirect="true"/>
+    <file name="forze.html" crc="247772922" seo="true" mt="1588188445328" redirect="true"/>
+    <file name="apotex.html" crc="4120100406" seo="true" mt="1588272763011" redirect="true"/>
+    <file name="sha.html" crc="194722196" seo="true" mt="1588272642290" redirect="true"/>
+    <file name="film.html" crc="508372072" seo="true" mt="1586912723242" redirect="true"/>
+  </folder>
+  <file name="about-me.html" crc="488263496" seo="true" mt="1588271974674" redirect="true"/>
+  <file name="emergy.html" crc="233983743" seo="true" mt="1588186603608" redirect="true"/>
+  <file name="goose-v2.html" crc="4230105350" seo="true" mt="1588175991533" redirect="true"/>
+  <file name="klein-bottle.html" crc="4142987396" seo="true" mt="1588174761026" redirect="true"/>
+  <file name="rarefraction.html" crc="434999320" seo="true" mt="1588185096247" redirect="true"/>
+  <file name="ux.html" crc="4206109119" seo="true" mt="1588185480655" redirect="true"/>
+  <file name="branding.html" crc="3808295624" seo="true" mt="1588185578904" redirect="true"/>
+  <file name="to-sit.html" crc="4167379905" seo="true" mt="1588182716156" redirect="true"/>
+  <file name="ivory-eggshell.html" crc="501119975" seo="true" mt="1588185041627" redirect="true"/>
+  <file name="film.html" crc="306606533" seo="true" mt="1588187719804" redirect="true"/>
+  <file name="forze.html" crc="460945076" seo="true" mt="1588209415430" redirect="true"/>
+  <file name="apotex.html" crc="4138914399" seo="true" mt="1588272818135" redirect="true"/>
+  <file name="sha.html" crc="329547937" seo="true" mt="1588207092202" redirect="true"/>
+  <file name="index.html" crc="254812975" seo="true" mt="1588271513376" redirect="true"/>
+  <file name="clicktime.html" crc="63492099" seo="true" mt="1588209177360" redirect="true"/>
+  <file name="website.html" crc="486492660" seo="true" mt="1588209240739" redirect="true"/>
+  <file name="td-paya.html" crc="3889106919" seo="true" mt="1588209284929" redirect="true"/>
+  <file name="td-casper.html" crc="4197587977" seo="true" mt="1588209264088" redirect="true"/>
+</manifest>
